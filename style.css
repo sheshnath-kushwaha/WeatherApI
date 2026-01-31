@@ -39,7 +39,7 @@ body{
     border-radius: 30px;
     flex: 1;
     margin-right: 20px;
-    font-size: 18px;
+    font-size: 17px;
 
 }
 .search button{
@@ -53,7 +53,7 @@ body{
 
 }
 .search button img{
-    width: 16px;
+    width: 17px;
 }
 .weather-icon{
     width: 170px;
